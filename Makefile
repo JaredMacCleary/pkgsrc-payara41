@@ -1,4 +1,5 @@
-# $NetBSD$
+# $NetBSD: Makefile,v 1.9 2017/01/10 23:02:13 ____ Exp $
+#
 
 DISTNAME=	payara-${PAYARA_VER}
 CATEGORIES=	wip
