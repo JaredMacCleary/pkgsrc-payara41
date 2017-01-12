@@ -1,0 +1,3 @@
+Payara is a Java EE 7 application server derived from the GlassFish Server Open Source Edition version 4.1.  While it remains fully compatible with GlassFish and can be used as a drop-in replacement, Payara has several features Glassfish does not, including enhanced clustering and logging capabilities.
+
+Payara Server is dual licensed under both CDDL 1.1 or CDDL and GPL v2 plus the Classpath exception.  It is released on a quarterly basis.
