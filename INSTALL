@@ -1,6 +1,6 @@
 #!@SH@
 #
-# $NetBSD: INSTALL,v 1.1 2015/05/05 13:29:23 ryoon Exp $
+# $NetBSD: INSTALL,v 1.0 2016/01/10 22:48:00 _____ Exp $
 
 case "${STAGE}" in
 POST-INSTALL)
