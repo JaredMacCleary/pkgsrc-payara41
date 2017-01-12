@@ -1,6 +1,6 @@
 #! @RCD_SCRIPTS_SHELL@
 #
-# $NetBSD: tomcat.sh,v 1.1 2015/05/05 13:29:24 ryoon Exp $
+# $NetBSD: payara.sh,v 1.0 2017/01/10 23:04:24 ____ Exp $
 #
 # PROVIDE: payara
 # REQUIRE: DAEMON
