@@ -1,1 +1,9 @@
-Payara Server is a drop in replacement for GlassFish Server Open Source Edition.
+===========================================================================
+$NetBSD: MESSAGE,v 1.1 2016/01/10 22:51:00 _____ Exp $
+
+Payara follows GlassFish's domain model, and all domains are located in the
+${PREFIX}/share/payara/glassfish/domains directory.  This directory may be
+modified in future updates.  A new location for domains can be set in
+${PREFIX}/share/payara/glassfish/config/asenv.conf.
+
+===========================================================================
